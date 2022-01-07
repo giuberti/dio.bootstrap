@@ -1,0 +1,22 @@
+.navbar {
+    background-color:cadetblue;
+}
+
+.menuA {
+    background-color:aqua;
+}
+
+.menuB {
+    background-color:rgb(70, 161, 74);
+}
+
+.margem {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.bg-footer
+{
+    background-color: black;
+    color: white;
+}
